@@ -38,7 +38,7 @@ Time to triage | 2 days | 10 days | Customized
 Time to bounty | 1 day (after triage) | N/A | Customized
 Time to resolution | 30 days | N/A | Customized <br>Targets can be broken up and set by severity</br>
 
-><i>Note: All times above are in business days</i>
+><i>Note: All times above in business days</i>
 
 ### Pausing Timers
 HackerOne will automatically pause these timers when you're waiting on a response from a hacker so that your team isn’t disadvantaged during the wait period. When you change the report state to *Needs more info*, the timer will pause while waiting on a response from a hacker. The timer will start again when a hacker replies and comments on the report.
